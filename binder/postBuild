@@ -1,8 +1,0 @@
-#!/bin/bash
-wget --no-check-certificate "https://docs.google.com/uc?export=download&confirm=t&id=1viFX8ZF-NTaPJgpLNp3vzSaHQNPbAYog" -O "data_faked.csv"
-wget --no-check-certificate "https://docs.google.com/uc?export=download&confirm=t&id=1IWrMsfZWgX87XfN6LmN4S6b6taY4Q-Yo" -O "data_faked_ML.csv"
-wget --no-check-certificate "https://docs.google.com/uc?export=download&confirm=t&id=1zjZKsBX9OfRTTo68ecGgWQpbAo6l33lx" -O "Signal_start.csv"
-wget --no-check-certificate "https://docs.google.com/uc?export=download&confirm=t&id=1CGiHiWqDgUw9LhrB65qs6XWUxyzd_3ti" -O "Signal_ML.csv"
-wget --no-check-certificate "https://docs.google.com/uc?export=download&confirm=t&id=1NDT0taTdHIQ6onRYNJfbqvQf_zgrZGaq" -O "Prompt_start.csv"
-wget --no-check-certificate "https://docs.google.com/uc?export=download&confirm=t&id=1HTxskMcIiAkIyVTHTuvi19HZJ4ImOenb" -O "Prompt_ML.csv"
-wget --no-check-certificate "https://docs.google.com/uc?export=download&confirm=t&id=1c_n9KTgU2zbW4owhz6-NV5LbUG0JcRFO" -O "DoubleCharm_start.csv"
