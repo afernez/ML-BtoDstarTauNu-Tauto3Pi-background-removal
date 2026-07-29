@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="315" viewBox="0 0 960 315">
+<style>.t{font:700 21px sans-serif;fill:#222}.l{font:16px sans-serif;fill:#222}.s{font:14px sans-serif;fill:#444}.n{fill:#fafafa;stroke:#555;stroke-width:2}.c{stroke:#aaa;stroke-width:1.3;opacity:.75}</style>
+<text x="480" y="28" text-anchor="middle" class="t">A neural network learns useful combinations of the inputs</text>
+<text x="115" y="62" text-anchor="middle" class="l">Input variables</text><text x="380" y="62" text-anchor="middle" class="l">Hidden layer</text>
+<text x="620" y="62" text-anchor="middle" class="l">Hidden layer</text><text x="855" y="62" text-anchor="middle" class="l">Output</text>
+<g class="c">
+<path d="M170 95L360 95M170 95L360 140M170 95L360 185M170 95L360 230M170 140L360 95M170 140L360 140M170 140L360 185M170 140L360 230M170 185L360 95M170 185L360 140M170 185L360 185M170 185L360 230M170 230L360 95M170 230L360 140M170 230L360 185M170 230L360 230"/>
+<path d="M400 95L600 110M400 95L600 165M400 95L600 220M400 140L600 110M400 140L600 165M400 140L600 220M400 185L600 110M400 185L600 165M400 185L600 220M400 230L600 110M400 230L600 165M400 230L600 220"/>
+<path d="M640 110L825 165M640 165L825 165M640 220L825 165"/>
+</g>
+<g class="n"><circle cx="150" cy="95" r="20"/><circle cx="150" cy="140" r="20"/><circle cx="150" cy="185" r="20"/><circle cx="150" cy="230" r="20"/>
+<circle cx="380" cy="95" r="20"/><circle cx="380" cy="140" r="20"/><circle cx="380" cy="185" r="20"/><circle cx="380" cy="230" r="20"/>
+<circle cx="620" cy="110" r="20"/><circle cx="620" cy="165" r="20"/><circle cx="620" cy="220" r="20"/></g>
+<circle cx="855" cy="165" r="31" fill="#7b61a8" stroke="#594477" stroke-width="2"/>
+<text x="115" y="100" text-anchor="end" class="s">momentum</text><text x="115" y="145" text-anchor="end" class="s">energy</text>
+<text x="115" y="190" text-anchor="end" class="s">vertex</text><text x="115" y="235" text-anchor="end" class="s">uncertainty</text>
+<text x="855" y="171" text-anchor="middle" font-family="sans-serif" font-size="18" fill="white">score</text>
+<text x="855" y="215" text-anchor="middle" class="s">0 = prompt-like</text><text x="855" y="237" text-anchor="middle" class="s">1 = signal-like</text>
+<text x="480" y="283" text-anchor="middle" class="s">Training adjusts the connection strengths so useful patterns lead to the correct output.</text>
+</svg>
